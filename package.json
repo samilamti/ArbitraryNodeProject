@@ -1,0 +1,22 @@
+{
+  "name": "arbitrary-node-project",
+  "version": "1.0.0",
+  "description": "lol w00t",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "test": "mocha test.js"
+  },
+  "keywords": [
+    "lol"
+  ],
+  "author": "Sami Lamti",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "should": "^8.3.1"
+  },
+  "dependencies": {
+    "jade": "^1.11.0"
+  }
+}
